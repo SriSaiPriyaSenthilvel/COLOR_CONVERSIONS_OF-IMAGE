@@ -56,7 +56,14 @@ cv2.destroyAllWindows()
 
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### ii)Write the image:
 
@@ -106,6 +113,18 @@ print(image.shape)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/be7aef3b-4414-4dd5-9ece-6a3f30e80c4f)
