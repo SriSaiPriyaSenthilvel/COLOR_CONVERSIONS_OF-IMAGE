@@ -312,6 +312,17 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
 
 
 
@@ -343,16 +354,6 @@ cv2.imshow('Merged',merged)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
