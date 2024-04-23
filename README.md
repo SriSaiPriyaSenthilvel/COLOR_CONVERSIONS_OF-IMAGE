@@ -54,17 +54,6 @@ cv2.destroyAllWindows()
 ## Output:
 ![WhatsApp Image 2024-02-19 at 08 03 11_5556a4de](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/8b158c55-db0c-4f11-85f7-96c14130db96)
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### ii)Write the image:
 
 ##### Program:
@@ -73,6 +62,16 @@ import cv2
 image=cv2.imread(r'C:\Users\SEC\Pictures\Screenshots\nat.jpg')
 cv2.imwrite('demos.jpg',image)
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 
