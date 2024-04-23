@@ -142,6 +142,9 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 
 ## Output:
