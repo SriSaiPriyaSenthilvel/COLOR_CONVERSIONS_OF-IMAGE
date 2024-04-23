@@ -143,6 +143,18 @@ cv2.imshow('image1',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/5b808296-4dc5-45e2-8d69-a696585d0be5)
