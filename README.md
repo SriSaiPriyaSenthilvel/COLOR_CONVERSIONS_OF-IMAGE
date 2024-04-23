@@ -68,10 +68,6 @@ cv2.imwrite('demos.jpg',image)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
 
@@ -119,10 +115,6 @@ print(image.shape)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
 
@@ -150,10 +142,7 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Output:
 
@@ -192,10 +181,7 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Output:
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/e631a975-bb21-4b36-8d0e-df6eaf4ab4bd)
@@ -229,10 +215,7 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Output:
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/1f6bddb3-1b57-4e8d-b3bc-ac84208caca6)
@@ -265,10 +248,7 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Output:
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/f7c9242d-19f1-43b0-840f-0de03a824f8c)
