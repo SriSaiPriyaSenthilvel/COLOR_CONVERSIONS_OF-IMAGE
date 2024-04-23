@@ -186,6 +186,17 @@ cv2.imshow('RGB2GRAY',gray2)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/e631a975-bb21-4b36-8d0e-df6eaf4ab4bd)
 
@@ -212,6 +223,17 @@ cv2.imshow('HSV2RGB',BGR)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ![image](https://github.com/SriSaiPriyaSenthilvel/COLOR_CONVERSIONS_OF-IMAGE/assets/119475702/1f6bddb3-1b57-4e8d-b3bc-ac84208caca6)
 
